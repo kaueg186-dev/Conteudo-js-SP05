@@ -22,7 +22,7 @@ console.log("O valor total é: " + valorTotal)
 console.log("-----------------------")
 
 //Declarando variáveis de forma automática
-
+                
 x = 1;
 y = 6;
 z = x + y;
