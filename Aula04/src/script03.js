@@ -1,0 +1,48 @@
+//Exemplo atribuição
+let a = 5;
+let exAtribuicao1 = a;
+
+console.log("Atribuindo o 5 para a: " + exAtribuicao1);
+
+//Atribuição de adição
+console.log("");
+
+let b = 20;
+
+b += 4; //Mesma coisa que: b = b + 4; 
+
+console.log(b);
+
+//Atribuição de subtração
+console.log("");
+
+let c = 10;
+c-= 2; //Mesma coisa que: c = c - 2;
+
+console.log(c);
+
+//Atribuição de multiplicação
+console.log("");
+
+
+let d = 4;
+d *= 4; //Mesma coisa que: d = d * 4;
+
+console.log(d);
+
+//Atribuição de exponenciação
+console.log("");
+
+let e = 10;
+
+e **= 6; //Mesma coisa que: e = e ** 6;
+
+console.log(e)
+
+//Atribuição de divisão
+console.log("");
+
+let f = 10;
+f /= 2; //Mesma coisa que f = f / 2;
+
+console.log(f)
