@@ -45,4 +45,6 @@ console.log("");
 let f = 10;
 f /= 2; //Mesma coisa que f = f / 2;
 
-console.log(f)
+console.log(f);
+
+
